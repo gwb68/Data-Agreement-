@@ -107,7 +107,7 @@ The researcher will use reasonable technical and organizational measures to prot
 
 These measures may include:
 
-- Password-protected systems
+- Password protected systems
 - Encrypted storage and data transfer
 - Access controls
 - Limited access to authorized researchers
